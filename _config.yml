@@ -1,3 +1,4 @@
-theme: jekyll-theme-merlot
+
+theme: minimal-mistakes-jekyll
 title: My GitHub Page
-description: Elegant magazine-like theme
+description: Full-featured, professional theme
