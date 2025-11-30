@@ -1,5 +1,3 @@
-theme: jekyll-theme-cayman
-
 # 👋 Hi, I'm Ma OA  
 Welcome to my GitHub Profile!
 
