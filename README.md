@@ -1,26 +1,19 @@
-<h1 align="center">✨ Welcome to My GitHub Profile ✨</h1>
-
-<p align="center">
-  <b>Hi there! I'm a Developer passionate about Backend, Frontend and System Design 🚀</b>
-</p>
+<h1 align="center">✨ Welcome to My GitHub Profile  ✨</h1>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 นักศึกษา: *(ใส่ชื่อสถาบันของคุณ)*
-- 💼 สนใจด้าน: **Backend | Frontend | Automation | System Architecture**
-- ❤️ ชอบ: การเขียนโค้ด, การทำระบบ, การสร้าง Web App  
-- ⚡ ถนัด: Kotlin, React, REST API  
-- 🌱 กำลังเรียนรู้: Docker, Microservices, DevOps  
-
+- 🎓  Mr.Teerapong Janosmmit
+- 💼  Information Technology
+  
 ---
 
 ## 🛠 Tech Stack
 
 ### 🚀 Programming Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
@@ -48,4 +41,4 @@
 ## 📫 Contact
 
 - 📧 Email: *numrock2546@gmail.com*  
-- 💼 credly:*(https://www.credly.com/users/laxna_eiei)*
+- 💼 [Credly](https://www.credly.com/users/laxna_eiei)
