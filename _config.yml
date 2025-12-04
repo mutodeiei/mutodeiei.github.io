@@ -1,0 +1,6 @@
+title: "My GitHub Portfolio"
+description: "Welcome to my GitHub page!"
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+show_downloads: false
