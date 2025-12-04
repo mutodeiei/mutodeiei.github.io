@@ -1,6 +1,6 @@
 | คำศัพท์ | **Console** |
 |---------|-------------------|
-| *Glossary* | A firewall is the best device to deploy to protect your private network from a public untrusted network. Firewalls are used to control traffic entering and leaving your trusted network environment. Firewalls canmanage traffic based on source or destination IP address, port number, service protocol, application or service type, user account, and eventraffic content |
-|**[ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)**|
-| **Claude** | ระบบรักษาความปลอดภัยที่ทำหน้าที่เหมือน "กำแพงป้องกัน" ระหว่างเครือข่ายคอมพิวเตอร์ของคุณกับเครือข่ายภายนอก (เช่น อินเทอร์เน็ต) |
-| **ความหมายที่ตัวเราเข้าใจ** |ระบบรักษาความปลอดภัย|
+| **Glossary** | The Microsoft Management Console (MMC) is a graphical interface for the administration of Windows 2000 and some earlier Microsoftoperating systems. |
+| **![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)** | หน้าจอสำหรับสื่อสารกับโปรแกรมผ่านข้อความ (พิมพ์คำสั่ง / ดูผลลัพธ์) |
+| **Claude** | ศูนย์กลางหรือแผงควบคุมที่รวมเครื่องมือต่างๆ ไว้ในที่เดียว เพื่อความสะดวกในการบริหารจัดการระบบ |
+| **ความหมายที่ตัวเราเข้าใจ** | แผงควบคุมเครื่องมือต่างๆ สำหรับสื่อสารกับโปรแกรม|
