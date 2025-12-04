@@ -48,4 +48,4 @@
 ## 📫 Contact
 
 - 📧 Email: *numrock2546@gmail.com*  
-- [credly](https://learnwithjusticeu.com/badges/): *(https://www.credly.com/users/laxna_eiei)*  
+- [credly]: (https://www.credly.com/users/laxna_eiei)
