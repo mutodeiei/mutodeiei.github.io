@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/9501d237-5982-454a-923a-d77331525540" /><h1 align="center">✨ Welcome to My GitHub Profile  ✨</h1>
+<h1 align="center">✨ Welcome to My GitHub Profile  ✨</h1>
 
 ---
 
