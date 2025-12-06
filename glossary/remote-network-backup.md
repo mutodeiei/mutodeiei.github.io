@@ -1,4 +1,4 @@
-| คำศัพท์ | **remotenetworkbackup** |
+| คำศัพท์ | **remote network backup** |
 |---------|-------------------|
 | **![Glossary](https://img.shields.io/badge/Glossary-4A90E2?style=for-the-badge&logo=openbook&logoColor=white)** | A backup method that uses a tape drive installed on a single server orworkstation to back up data other servers and computers connected tothe network. This method backs up the registry on the computerattached to the tape drive, but not the registries of the other computers.|
 | **![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)** |วิธีการสำรองข้อมูลที่ใช้เทปไดรฟ์ซึ่งติดตั้งอยู่บนเซิร์ฟเวอร์หรือเวิร์กสเตชันเครื่องเดียว เพื่อสำรองข้อมูลของเซิร์ฟเวอร์และคอมพิวเตอร์เครื่องอื่นที่เชื่อมต่ออยู่ในเครือข่าย วิธีนี้จะสำรองข้อมูลรีจิสทรีของคอมพิวเตอร์ที่ติดตั้งเทปไดรฟ์เท่านั้น แต่จะไม่สำรองรีจิสทรีของคอมพิวเตอร์เครื่องอื่นในเครือข่าย|
