@@ -1,30 +1,45 @@
 title: "My GitHub Portfolio"
-description: "Welcome to my GitHub page!"
+description: "Showcasing my projects, skills, and experiences."
 theme: jekyll-theme-cayman
 
-# Markdown settings
+
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false
   syntax_highlighter: rouge
 
-# Social media & personal info
+
 author:
   name: "Your Name"
-  email: "your@email.com"
+  email: "youremail@example.com"
 
-# GitHub Buttons
-show_downloads: false
+# Social Links
+social_links:
+  github: "https://github.com/yourusername"
+  linkedin: "https://www.linkedin.com/in/yourprofile"
+  youtube: ""
+  facebook: ""
+  instagram: ""
 
-# Beautify - additional config
-google_analytics: ""
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# SEO customization
-seo:
-  name: "My GitHub Portfolio"
-  type: "website"
-  description: "A clean and modern portfolio showcasing my code and projects."
+
+jekyll-seo-tag:
+  social:
+    name: "My GitHub Portfolio"
+    type: "website"
+
+
+google_analytics: ""
+
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+
+show_downloads: false
