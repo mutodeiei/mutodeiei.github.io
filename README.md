@@ -38,8 +38,8 @@
 
 ---
 ##  📘  Glossary
- + [Hardware Profile](glossary/hardwareprofile.md)
- + [remotenetworkbackup](glossary/remotenetworkbackup.md)
+ + [Hardware Profile](glossary/hardware-profile.md)
+ + [remotenetworkbackup](glossary/remote-network-backup.md)
  + [terminal](glossary/terminal.md)
    
 ---
