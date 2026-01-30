@@ -47,7 +47,7 @@
 ---
 ##   LAB SIM
 
- + [5.5.4 Configure a Remote_Access_VPN](5.5.4Configure-a-Remote-Access-VPN.md)
+ + [5.5.4 Configure_a_Remote_Access_VPN](5.5.4Configure-a-Remote-Access-VPN.md)
    
 ---
 
