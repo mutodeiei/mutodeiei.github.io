@@ -32,7 +32,7 @@
 
 ## 🏆 Certificates
 
-- ✔ [Cybersecurity Fundamentals](Cybersecurity_Fundamentals.md)
+- ✔ [Cybersecurity Fundamentals](https://edu.google.accredible.com/5ac3a5fb-9572-4b40-940d-1319088d9810#acc.Kdow8Usg)
 - ✔ AWS / Cloud (ถ้ามี)  
 - ✔ PLC OPC UA / Automation (ถ้ามี)
 
