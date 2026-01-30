@@ -32,7 +32,7 @@
 
 ## 🏆 Certificates
 
-- ✔ Programmer Basic Certificate  
+- ✔ [Cybersecurity Fundamentals](Cybersecurity_Fundamentals.md)
 - ✔ AWS / Cloud (ถ้ามี)  
 - ✔ PLC OPC UA / Automation (ถ้ามี)
 
