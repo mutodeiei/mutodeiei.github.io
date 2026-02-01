@@ -39,6 +39,10 @@
 - ✔ [Gemini Certified Educator](https://edu.google.accredible.com/5ac3a5fb-9572-4b40-940d-1319088d9810)
 - ✔ [Gemini Certified University Student](https://edu.google.accredible.com/65c23eb7-88a6-4616-94fe-dae58fb542f8)
 - ✔ [Gemini Certified Faculty](https://edu.google.accredible.com/4dfb48fc-a2b8-4bec-a603-9b3957b747ce?key=b965e287e524a2e371f4eac0eb1bc2fb45fde59d9f8c2342c66f9397a5ebe06e)
+- ✔ [Certified Cybersecurity Educator Professional (CCEP)](Certified_Cybersecurity_Educator_Professional.md)
+- ✔ [Certified C++ Practitioner Certification (CCPC)](certified_c_certificate.md)
+- ✔ [Certified Red Team Operations Management (CRTOM)](certified_red_certificate.md)
+
 
 ---
 ##  📘  Glossary
