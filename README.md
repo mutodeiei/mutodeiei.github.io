@@ -9,7 +9,15 @@
   
 ---
 
-## git-wrapped-mutodeiei
+## gimini
+- ✔ [Gemini_Educator](Gemini_Educator.md)
+- ✔ [Gemini_Faculty](Gemini_Faculty.md)
+- ✔ [Gemini_University_Student](Gemini_University_Student.md)
+---
+
+---
+
+##  git-wrapped-mutodeiei
 - ✔ [git-wrapped](git-wrapped-mutodeiei.md)
 
 ---
