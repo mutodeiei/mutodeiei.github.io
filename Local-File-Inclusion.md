@@ -1,7 +1,8 @@
 
 #  ___การจัดการช่องโหว่ Local File Inclusion (LFI)___ 
-## เป้าหมาย: ไฟล์ rlfi.php ในระบบ bWAPP ระดับความยาก: ปานกลาง (Medium)
-![This is an alt text.](/img/img2/63.png)
+## path/file : rlfi.php ในระบบ bWAPP (Buggy Web Application) 
+
+![This is an alt text.](wed_seec/wall_1.png)
 
 === 
 
@@ -24,7 +25,8 @@
 ### ปัญหาอยู่ที่บรรทัดไหน?
 
 จากการสแกนด้วยเครื่องมือ RIPS พบว่าโค้ดมีการเขียนที่ไม่ปลอดภัย โดย RIPS แจ้งเตือนดังนี้
-![This is an alt text.](/img/img2/63.png)
+
+![This is an alt text.](wed_seec/wall_1.png)
 
 #### ผลการสแกน (RIPS Output)
 > Userinput reaches sensitive sink
@@ -91,10 +93,11 @@ switch($_GET["language"]) {
 }
 ```
 # โค้ดที่ยังไม่แก้ไข
-![This is an alt text.](/img/img2/64.jpg)
+![This is an alt text.](wed_seec/wall_3.jpg)
 
 # โค้ดที่แก้ไขแล้ว
-![This is an alt text.](/img/img2/65.jpg)
+![This is an alt text.](/wed_seec/wall_4.jpg)
+
 ---
 
 # 5. การตรวจสอบหลังแก้ไข (Verification)
@@ -105,19 +108,23 @@ switch($_GET["language"]) {
 ## 5.1 ด้านความปลอดภัย (Security Check)
 *   **วิธีทดสอบ:** ลองป้อน Payload เดิม: `../../../../etc/passwd` เข้าไปที่พารามิเตอร์ URL
 *   **สิ่งที่คาดหวัง:** ระบบต้องไม่แสดงข้อมูลในไฟล์ แต่ต้องขึ้นข้อความ **"Access Denied"** สีแดงแทน
-![This is an alt text.](/img/img2/66.png)
+  
+![This is an alt text.](wed_seec/wall6.png)
 
 ## 5.2 ด้านคุณภาพโค้ด (Source Code Analysis)
 *   **วิธีทดสอบ:** นำโค้ดที่แก้ไขแล้วไปสแกนด้วยเครื่องมือ RIPS อีกครั้ง
 *   **สิ่งที่คาดหวัง:** RIPS ต้องขึ้นแถบสีเขียวพร้อมข้อความ **"No vulnerabilities found"** เพื่อยืนยันว่าไม่มีช่องทางไหลของข้อมูลที่อันตรายแล้ว
-![This is an alt text.](/img/img2/68.png)
+  
+![This is an alt text.](wed_seec/wall_8.png)
 
 ## 5.3 ด้านการใช้งานทั่วไป (Usability Check)
 *   **วิธีทดสอบ:** ลองกดเลือกภาษา "English" หรือ "French" จากเมนูหน้าเว็บตามปกติ
 *   **สิ่งที่คาดหวัง:** เว็บไซต์ต้องแสดงผลภาษาได้ถูกต้อง ไม่เกิด Error หรือปัญหาการใช้งานใดๆ
-![This is an alt text.](/img/img2/67.png)
+  
+![This is an alt text.](wed_seec/wall_5.png)
 
 ===
 
 # สรุป :
+
 การดำเนินการแก้ไขช่องโหว่ Local File Inclusion (LFI) บนระบบ bWAPP เสร็จสิ้นสมบูรณ์ การปรับปรุงโค้ดด้วยวิธี Strict Whitelisting สามารถขจัดความเสี่ยงจากการเข้าถึงไฟล์ระบบโดยไม่ได้รับอนุญาตได้ 100% โดยผ่านการตรวจพิสูจน์ทั้งในเชิงรุก (Exploitation) และเชิงรับ (Source Code Analysis) เรียบร้อยแล้ว ระบบมีความมั่นคงปลอดภัยพร้อมใช้งานตามปกติ
