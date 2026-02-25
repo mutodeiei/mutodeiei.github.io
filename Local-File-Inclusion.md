@@ -4,7 +4,7 @@
 
 ![This is an alt text.](wed_seec/wall_1.png)
 
-=== 
+
 
 # 1. ฟังก์ชันการทำงานเดิม (Business Function)
 ### หน้านี้มีไว้ทำอะไร?
